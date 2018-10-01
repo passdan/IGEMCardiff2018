@@ -1,6 +1,6 @@
 # Developed for Cardiff IGEM team 2018
 
-Script to identify take DNA sequence to be split into siRNA sized probes and matched against a reference database
+Script to take a DNA sequence, split it into user defined siRNA sized probes and identify against a reference database.
 
 ```
 usage: ProbeTest.py [-h] -i I -d D [-w W] [-a A] [-e E] [-p P]
